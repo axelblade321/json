@@ -1,0 +1,14 @@
+{
+	"remote_control":true,
+	"github_token":"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",
+	"github_username":"axelblade321",
+	"username":"axelblade56",
+	"password":"Hound1997", 
+	"shared_secret":"",
+	"main":"76561198395392578",
+	"bot_playing":["time boost",730,570,440],
+	"persona":"1",
+	"users":[
+		{"user":"DarkLordPath","password":"Fenrir3000","shared_secret":"","key":"","games":[1361400, 1150080, 108600],"persona":1,"logged":true}
+	]
+}
